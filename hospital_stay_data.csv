@@ -1,0 +1,11 @@
+Age,Gender,BloodPressure,HeartRate,AdmissionType,StayDuration
+65,Male,140,85,Emergency,7
+45,Female,130,78,Elective,3
+72,Male,150,90,Emergency,10
+39,Female,120,76,Urgent,4
+50,Male,135,82,Elective,5
+28,Female,125,88,Emergency,2
+60,Male,145,80,Urgent,6
+55,Female,138,84,Elective,3
+33,Male,128,77,Emergency,4
+48,Female,132,79,Urgent,3
